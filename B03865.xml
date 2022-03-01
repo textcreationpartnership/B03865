@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties most gratious declaration to all his loving subjects commanding their assistance against the Prince of Orange, and his adherents.</title>
+            <author>James II, King of England, 1633-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03865</idno>
+            <idno type="STC">Wing J216A</idno>
+            <idno type="STC">ESTC R178847</idno>
+            <idno type="EEBO-CITATION">52612187</idno>
+            <idno type="OCLC">ocm 52612187</idno>
+            <idno type="VID">179482</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03865)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179482)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2790:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties most gratious declaration to all his loving subjects commanding their assistance against the Prince of Orange, and his adherents.</title>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Thomas Hales,</publisher>
+                  <pubPlace>Printed at St. Germans :</pubPlace>
+                  <date>Anno Domini MDCLXXXXII [i.e. 1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Dated at end: Given at Our Court at St. Germains the twentieth day of April in the eighth year of Our Reign.</note>
+                  <note>Ms. notes at head of text.</note>
+                  <note>Imperfect: stained and torn with some loss of text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Revolution of 1688 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179482:1" rendition="simple:additions"/>
+            <head>HIS MAJESTIES Moſt gratious Declaration to all His loving Subjects, Commanding their Aſſiſtance againſt the Prince of Orange and his Ad<g ref="char:EOLhyphen"/>herents.</head>
+            <opener>
+               <signed>JAMES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS the Moſt Chriſtian King, in purſuance of the many obliging promiſes he has made Us, of giving Us his effectual Aſſiſtance for the recovering of Our Kingdoms, as ſoon as the condition of his Affairs would permit, has put Us in a way of endeavouring it at this time, and in order to it, has lent Us ſo many of his Troops, as may be abundantly ſufficient to untie the hands of Our Subjects, and make it ſafe for them to return to their Duty, and repair to Our Standard; and has notwithſtanding for the preſent, according to Our deſire (unleſs there should appear further neceſſity for it) purpoſely declin'd ſending over Forces ſo numerous, as might raiſe any jealouſie in the minds of Our good Subjects, of his intending to take the Work wholly out of their hands, or to deprive any true <hi>Englishman</hi> of the part he may hope to have in ſo Glorious an Action, as is that of Reſtoring his Lawful King, and His Antient Goverment (all which Forreign Troops, as ſoon as We shall be fully ſettled in the quiet and peaceable Poſſeſſion of Our Kingdoms, We do hereby promiſe to ſend back, and in the mean time to keep them in ſuch exact order and Diſcipline, that none of Our Subjects shall receive the leaſt injury in their Perſons or Poſ<g ref="char:EOLhyphen"/>ſeſſions, from any Soldier or Officer whatſoever) thô an Affair of this nature ſpeaks for it ſelf, nor do We think Our Selves at all oblig'd to ſay any thing more upon this occaſion, than, that We come to Aſſert Our own juſt Rights, and to deliver Our People from the oppreſſion they ly under; yet, when We conſider how miſerably many of Ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Subjects were <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed into the late Revolution by the Ar<g ref="char:EOLhyphen"/>tifice of ill Men, and pa<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ince of <hi>Or<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eclaration, which was taken upon truſt, and eaſily believ'd then, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>otoriouſly <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll the parts of it, conſiſting no leſs of Aſſertions that have been evident <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>v'd, than of Prom<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es that were never intended to be per<g ref="char:EOLhyphen"/>formed; to prevent the like deluſions for the time to come, and to do, as much as lies in Our Power, to open the Eyes of all Our Subjects, We are willing to lay the whole matter before them in as plain and short a manner as is poſſible, that they may not again pretend miſtakes, or have ignorance to plead for any falſe ſteps they shall hereafter make towards the ruin of their own, and their Countries happineſs.</p>
+            <p>And herefote, to take the matter from the beginning, it cannot be forgotten, that as ſoon as We had certain notice of the Prince of <hi>Orange's</hi> unnatural deſign of Invading Our Kingdoms, with the whole Power of the United Provinces, We firſt took the beſt care We could to provide for Our defence <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which We ſeem'd effectually to have done, when We had put Our Fleet and Army into ſuch a con<g ref="char:EOLhyphen"/>dition, that thô His Moſt Chriſtian Majeſty, who well ſaw the bottom of the deſign againſt Us, againſt
+<pb facs="tcp:179482:2"/>
+Himſelf, and, indeed, againſt the Peace of <hi>Europe,</hi> offer'd Us conſiderable Succours, both by Land and Sea, We did not think it at all neceſſary to accept 'em at that time, as reſolving to caſt Our Selves wholly (next to the Divine Protection) upon the Courage and Fidelity of Our <hi>English</hi> Army, which had been with ſo much care and tenderneſs form'd and oblig'd by Us. And having thus prepar'd to oppoſe Force to Force; We did, in the next place, apply Our Selves to give all reaſonable ſatisfaction to the Minds of Our good Subjects by endeavouring to undeceive them, and to let them ſee betimes and whilſt the miſchief might eaſily have been prevented, how fatal a ruin they muſt bring upon their Country, if they ſuffer'd themſelves to be ſeduc'd by the vain pretences of the Prince of <hi>Orange's</hi> In<g ref="char:EOLhyphen"/>vaſion However, ſo great was the infatuation of that time, that We were not believ'd 'till it was too late. But when he was oblig'd to throw off the Mask by degrees, and that it began to appear plainly that it was not the Reformation of the Goverment (which yet was a matter that did not at all belong to him to meddle with) but the Subverſion of it that he aim'd at, that ſo he might build his own Am<g ref="char:EOLhyphen"/>bitious deſigns upon the ruins of the <hi>English</hi> Nation; and when the Poyſon had inſinuated it ſelf into the vital parts of the Kingdom, when it had ſpread over our whole Army, and ſo far got into Our Court and Family, as not only to corrupt ſome of Our Servants that were neareſt Our Perſon, and had been moſt highly oblig'd by Us, but not even to leave Our own Children at that time uninfected; when Our Army dayly deſerted on the one hand, and on the other hand Tumults and Diſorders increas'd in all parts of the Kingdom; and eſpecially vvhen shortly after, the Reuolution came on ſo faſt, that We found Our Selves wholly in Our Enemies Power, being at firſt confin'd by them in Our own Pallace, and afterwards rudely forc'd out of it under a Guard of Forreigners, We could not then but be ad<g ref="char:EOLhyphen"/>monish'd, by the fate of ſome of Our Predeceſſors in the like circumſtances, of the danger We were in, and that it was high time to provide for the ſecurity of Our Perſon (which was happily effected by Our getting from the Guard that was ſet upon Us at <hi>Rocheſter,</hi> and Our arrival in <hi>France;</hi> the only part of <hi>Europe</hi> to which We could retire with ſafety) that ſo We might preſerve Our Selves for better times, and for a more happy opportunity; ſuch as is that which, by the Bleſſing of God, is at preſent put into Our Hands.</p>
+            <p>Upon what foundation of Juſtice or Common ſenſe, the Prince of <hi>Orange's</hi> Faction in <hi>England</hi> were plea<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d to treat this eſcape of Ours out of the Hands of Our Enemies in the Style of an Abdication; a word, when apply'd to Sovereign Princes, that vvas never before us'd to ſignifie any thing but a free and voluntary Reſignation of a Crown, as in the Caſes of the Emperour <hi>Charles</hi> the Fifth, and the late Queen of <hi>sweden;</hi> and what a ſtrange ſuperſtructure they rais'd upon this weak Foundation, that a Company of Men Illegally met together, who had not Power, even by their own Confeſſion at that time (for it was before they had Voted themſelves a Parliament) to charge the Intereſt of the meaneſt Subject; should yet take upon them to deſtroy the whole Conſtitution of the Goverment, to make an Antient Hereditary Monarchy turn Elective; and then aſſuming to themſelves the Right of Election, should proceed to ſettle the Succeſſion in ſo odd and extravagant a manner, are Tranſactions that need not be repeated: They are too well known to the World, to the great reproach of the <hi>English</hi> Nation, and the grounds upon which they are Built, are too vain and frivolous to de<g ref="char:EOLhyphen"/>ſerve a confutation. Every Free-holder of <hi>England</hi> is, in this Caſe, able to make his own obſervations: and will, no doubt, examin a little better than hitherto he has done, what aſſurance any private Man can have of keeping his Eſtate, if the King himſelf shall hold His Crown by no better Title.</p>
+            <p>But ſince ſome Men that could not ſay one word in defence of the Juſtice of theſe proceedings, would yet take great pains to shew the neceſſity of them, and to ſet forth what extraordinary good effects were to be expected from ſo very bad a Cauſe; We do not doubt but the Nation has by this time caſt up the account, and when they shall have well conſider'd, what wonders might have been perform'd with leſs expence of <hi>English</hi> Blood than that which has been unneceſſarily trifled away in this Quarrel; that ſuch a number of Ships of War have been loſt and deſtroy'd in the Three Years laſt paſt, as might alone have been ſufficient to have made a conſiderable Fleet: That more Mony has been drain'd out of the Purſes of Our Subjects in the compaſs of that time, than during the whole Reigns of many of Our Predeceſſors put together; and that not as formerly, ſpent again, and Cir<g ref="char:EOLhyphen"/>culating amongſt them, but Tranſported <hi>in Specie</hi> into Forreign Parts, and for ever loſt to the Na<g ref="char:EOLhyphen"/>tion: When theſe and many other particulars of this Nature are caſt up, it muſt certainly appear at the foot of the Account, how much worſe the Remedy is than the fancied Diſeaſe, and that, at leaſt hitherto, the Kingdom is no great gainer <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the change.</p>
+            <p>The next conſideration is, what may <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>bly be exp<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> time to come: And as to that, no better Judgment can be made of an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> events than <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that is paſt: And doubt<g ref="char:EOLhyphen"/>leſs from the obſervation of the Temp<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Complection <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and the Maxims of the pre<g ref="char:EOLhyphen"/>ſent Uſurper, from the ſteps he has already taken, when it was moſt neceſſary for him to give no diſtaſt to the People, as well as from the Nature of all Uſurpation, which can never be ſupported but by the ſame ways of fraud and violence by which it was firſt ſet up, there is all the reaſon in the World to believe that the beginning of this Tyranny, like the Five firſt Years of <hi>Nero,</hi> is like to prove much the mildeſt part of it; and all they have yet ſuffer'd, is but the beginning of the miſeries which thoſe very Men who were the great Promoters of the Revolution may yet live to ſee and feel, as the effect of that Illegal and Tyrannical Goverment, which they themſelves firſt impos'd upon the Kingdoms.</p>
+            <p>And yet the conſideration muſt not reſt here neither: For all wiſe Men ought, and all good Men will tkae care of their Poſterity, and therefore it is to be remembred, that if it should pleaſe Al<g ref="char:EOLhyphen"/>mighty
+<pb facs="tcp:179482:2"/>
+God, as one of his ſevereſt Judgments upon theſe Kingdoms for the many Rebellions <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Perjuries they have been guilty of, ſo far to permit the continuance of the preſent Uſurpation, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> We should not be Reſtor'd during Our own time, yet an indiſputable Title to the Crown will ſurvive in the <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n of Our deareſt Son the Prince of <hi>Wales,</hi> Our preſent Heir Apparent, and His Iſſue and, for default of that, in the Iſſue of ſuch other Sons as We have great reaſon to hope (the Queen being now with Child) We may yet leave behind Us; and what the conſequence of that is like to be, may eaſily be underſtood by all that are not Strangers to the long and bloody contenti<g ref="char:EOLhyphen"/>ons between the Houſes of York and Lancaſter, and whoever shall Read the Hiſtories of thoſe times, and there shall have preſented to him as in one view a Scene of all the miſeries of an inteſtine War, the perpetual harraſſing of the Poor Commons by Plunder and Free-Quarter, the <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n of ſo many Noble Families by frequent Executions and Attainders, the weakning of the whole Kingdom in ge<g ref="char:EOLhyphen"/>neral at home, and the loſing thoſe advantages they might in the mean time have procur'd for them<g ref="char:EOLhyphen"/>ſelves abroad, cannot but conclude that theſe are the natural effects of thoſe ſtruglings and convul<g ref="char:EOLhyphen"/>ſions that muſt neceſſarily happen in every State, where there is a diſpute entail'd between an injur'd Right and an unjuſt Poſſeſſion.</p>
+            <p>There is another conſideration that ought to be of weight with all Chriſtians; and that is the calamitous condition of <hi>Europe,</hi> now almoſt univerſally engag'd in a War amongſt themſelves at a time when there was the greateſt hopes of ſucceſs againſt the common Enemie, and the faireſt proſpect of enlarging the bounds of the Chriſtian Empire, that ever was in any Age ſince the declining of the Roman: And ſo far from any hopes of a General Peace before Our Reſtoration, that no rational Project of a Treatie can be form'd in order to it: But that once done, the thing will be eaſie, and We shall be ready to offer Our Mediation, and interpoſe all the good Offices We can with His Moſt Chriſtian Majeſty for the obtaining of it.</p>
+            <p>Since therefore We come with ſo good purpoſes, and ſo good a Cauſe, the Juſtice of which is foun<g ref="char:EOLhyphen"/>ded upon the Laws both of God and Man, ſince the Peace of <hi>Europe</hi> as well as of Our own Kingdoms, the proſperity of the preſent and future Ages is concern'd in the ſucceſs of it, We hope We shall meet with little oppoſition, but that all Our Loving Subjects according to the Duty and the Oath of their Allegiance, and as We hereby Command and Require them to do, will joyn with Us and aſſiſt Us to the utmoſt of their Power.</p>
+            <p>And We do hereby ſtrictly forewarn and prohibit any of Our Subjects whatſoever, either by Col<g ref="char:EOLhyphen"/>lecting or Paying any of the illegal Taxes lately impos'd upon the Nation, or any part of Our Re<g ref="char:EOLhyphen"/>venue, or by any other wayes to abet or ſupport the preſent Uſurpation. And that We may do all that can be thought of to win over all Our Subjects to Our Service, that ſo, if it be poſſible, We may have none but the Uſurper and his Forreign Troops to deal with, and that none may be forc'd to con<g ref="char:EOLhyphen"/>tinue in their Rebellion by deſpair of Our Mercy for what they have alreadie done; We do hereby Declare and Promiſe in the Word of a King, that all Perſons whatſoever how guilty ſoever they may have been (except the Perſons following) <hi>Viz.</hi> The Duke of <hi>Ormond,</hi> Marqueſs of <hi>Wincheſter,</hi> Earl of <hi>Sunderland,</hi> Earl of <hi>Bath,</hi> Earl of <hi>Danby,</hi> Earl of <hi>Nottingham,</hi> Lord <hi>Newport,</hi> Bishop of <hi>London,</hi> Bishop of St. <hi>Aſaph,</hi> Lord <hi>Delamere,</hi> Lord <hi>Wiltshire,</hi> Lord <hi>Colchester,</hi> Lord <hi>Cornbury,</hi> Lord <hi>Dunblane, John</hi> Lord <hi>Churchill,</hi> Sir <hi>Robert Howard,</hi> Sir <hi>John Worden,</hi> Sir <hi>Samuel Grimston,</hi> Sir <hi>Stephen Fox,</hi> Sir <hi>George Treby,</hi> Sir <hi>Baſil Dixwell,</hi> Sir <hi>James Oxenden,</hi> Dr. <hi>Tillotſon</hi> Dean of <hi>Canterbury,</hi> Dr. <hi>Gilbert Burnet; Francis Ruſſel, Richard Leviſon, John Trenchard,</hi> Eſquires; <hi>Charles Duncomb,</hi> Citizen of <hi>London,  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  Edwards,  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  Napleton,  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  Hunt</hi> Fisherman, and all others who offer'd Perſonal Indignities to Us at <hi>Feversham;</hi> except alſo all Perſons who as Judges or Jury-men, or otherwiſe have had a hand in the Barbarous Murther of Mr. <hi>John Ashton,</hi> and of Mr. <hi>Croſs,</hi> or of any others who have been Illegally Condemn'd and Executed for their Loyalty to Us; and all Spies and ſuch as have be<g ref="char:EOLhyphen"/>tray'd Our Counſels during Our late abſence from <hi>England</hi>) that by an early return to their Duties, and by any Signal Mark of it, as by ſeizing to Our Uſe, or Delivering into our Hands any of Our Forts, or by bringing over to Us any Ships of War, or Troops in the Uſurper's Army, or any new-rais'd and Arm'd by themſelves, or by any other eminent good Service, according to their ſeveral op<g ref="char:EOLhyphen"/>portunities and Capacities, shall manifeſt the ſincerity of their Repentance, shall not only have their reſpective Pardons immediately paſt under the Great Seal of <hi>England,</hi> but shall otherwiſe be conſider'd and rewarded by Us as the Merit of the Caſe shall require. And for all others who after the time of Our Landing shall not appear in Arms againſt Us, nor do a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Act or thing in oppoſition to Our Re<g ref="char:EOLhyphen"/>ſtoration, the Perſons before-mention'd <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> accepted, We <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> provide in Our firſt Parliament (which We intend to Call with <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by a Gene<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Indemnity; that ſo the Minds of all Our Subjects may be as <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> at eaſe, as <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſons and Properties will be ſecure and inviolable under Our Goverment.</p>
+            <p>Provided always, that all Magiſtrates who expect any benefit of Our Gratious Pardon, shall im<g ref="char:EOLhyphen"/>mediately after notice of Our Landing make ſome publick Manifeſtation of their Allegiance to Us, and of their Submiſſion to Our Authority; and alſo Publish and cauſe to be Proclaim'd this Our Declara<g ref="char:EOLhyphen"/>tion as ſoon as it shall come to their hands; and likewiſe that all Keepers of Priſons immediately ſet at liberty all Perſons Committed to their Cuſtody upon the account of their Allegiance and Af<g ref="char:EOLhyphen"/>fection to Us, or be excluded from any benefit of our Pardon.</p>
+            <p>And We do hereby further Declare, that all officers and Soldiers by Sea or Land now engag'd in the Uſurpers Service, who shall after notice of our Landing at any time before they engage in any
+<pb facs="tcp:179482:3"/>
+Fight or Battle againſt Our Forces, quit the ſaid illegal Service, and return to their Duty, shall not <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly have their reſpective Pardons, but shall likewiſe be fully-ſatisfied and paid all the Arrears due to them from the Uſurper, and that even the Forreigners themſelves, who have been as well in Troops, as ſingle Perſons, drawn into the Kingdom, in order to Liſt them as there should be occaſion for the op<g ref="char:EOLhyphen"/>poſing our return, and continuing our People in the oppreſſion they lie under, may not be altogether driven to deſpair, We do promiſe, that all ſuch of them who shall, as aforeſaid, before they engage againſt any of our Forces, lay down their Arms, and claim the benefit of our preſent Declaration, shall have their Arrears ſatisfied, and care shall be taken for their Tranſportation to their reſpective Coun<g ref="char:EOLhyphen"/>tries, or elſewhere as they shall reaſonably deſire.</p>
+            <p>And We do hereby further Declare and Promiſe, that We will Protect and Maintain the Church of <hi>England,</hi> as it is now by Law Eſtablish'd in all their Rights, Priviledges, and Poſſeſſions, and that upon all Vacanc<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s of Biſhopricks and other Dignities and Benefices within our diſpoſal, care shall be taken to have them fill'd with the moſt Worthy of their own Communion.</p>
+            <p>And whereas more Tumults and Rebellions have been rais'd in all Nations upon the account of Religion, than upon all other pretences put together; and more in <hi>England</hi> than in all the reſt of the World beſides; That therefore Men of all opinions in matters of Religion may be Reconcil'd to the Goverment, that they may no longer look upon it as their Enemy, but may therefore think themſelves equally concern'd in the Preſervation of it, with the reſt of their fellow Subjects, becauſe they are equally well Treated by it, and being convinc'd in Our Judgment, that Liberty of Conſcience is moſt agreeable to the Laws and the Spirit of the Chriſtian Religion, and moſt conducing to the Wealth and Proſperity of Our Kingdoms, by encouraging Men of all Coun<g ref="char:EOLhyphen"/>tries and Perſuaſions to come and Trade with Us, and ſettle amongſt Us: For theſe reaſons We are reſolv'd moſt earneſtly to recommend to Our Parliament the ſettling Liberty of Conſcience in ſo beneficial a manner, that it may remain a laſting Bleſſing to this Kingdom.</p>
+            <p>Laſtly, It shall be Our great care by the Advice and Aſſiſtance of Our Parliament, to repair the Breaches, and heal the Wounds of the late diſtractions, to reſtore Trade, by putting the Act of Navigation in effectual Execution, which has been ſo much violated of late in favour of Strangers, to put Our Navy and Stores into as good a condition as We left them, to find the beſt ways of bringing back Wealth and Bullion into the Kingdom, which of late has been ſo much exhauſted, and generally We shall delight to ſpend the remainder of Our Reign (as We have always deſign'd ſince Our coming to the Crown) in ſtudying to do every thing that may contribute to the Re-eſtab<g ref="char:EOLhyphen"/>lishment of the Greatneſs of the <hi>English</hi> Monarchy upon it's old and true Foundation, the United In<g ref="char:EOLhyphen"/>tereſt and Affection of the People.</p>
+            <p>Thus having endeavour'd to Anſwer all Objections, and to give all the ſatisfaction We can think of, to all Parties and degrees of Men: We cannot want Our Self the ſatisfaction of having done all that can be done on Our part, whatever the Event shall be, the diſpoſal of which We commit with great reſignation and dependance to that God which Judges Right: And on the other ſide, if any of Our Subjects shall after all this remain ſo obſtinate as to appear in Arms againſt Us, as they muſt needs fall unpitied under the ſeverity of Our Juſtice after having refus'd ſuch Gratious offers of Mercy, ſo they muſt be anſwerable to Almighty God for all the Blood that shall be ſpilt, and all the Miſeries and Confuſions in which theſe Kingdoms may happen to be involv'd by their deſperate and unreaſonable Oppoſition.</p>
+            <closer>
+               <dateline>Given at Our Court at St. <hi>Germans,</hi> 
+                  <date>the Twentieth Day of <hi>April</hi> in the Eighth Year of Our Reign.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <q>Pèr Ipſum Regem Manu propriâ.</q>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at St. <hi>Germans,</hi> by <hi>Thomas Hales,</hi> Anno Domini. MDCLXXXXII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
